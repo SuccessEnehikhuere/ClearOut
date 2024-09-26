@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native'
+import { View, Text, StyleSheet, Platform } from 'react-native'
 
 function AppText({ children, style }) {
   return <Text style={[styles.text, style]}>{children}</Text>
