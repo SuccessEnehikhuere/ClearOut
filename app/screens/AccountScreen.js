@@ -30,7 +30,7 @@ function AccountScreen(props) {
         <ListItem
           title="Mosh Hamedani"
           subTitle="programmingwithmosh@gmail.com"
-          image={require('../assets/mosh.jpg')}
+          image={require('../assets/img.webp')}
         />
       </View>
       <View style={styles.container}>
